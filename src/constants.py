@@ -1,0 +1,5 @@
+TEXT_DATA_FOLDER = "./../data/text_data/"
+DATA_FOLDER      = "./../data/"
+DATASET_PATH     = "./../data/ready/data.csv"
+PROJECT_ROOT     = "./.."
+EMBEDDINGS_PATH = "./../data/ready/data_with_embeddings.npz"

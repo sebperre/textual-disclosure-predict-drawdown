@@ -1,0 +1,7 @@
+pandas
+seaborn
+scikit-learn
+tqdm
+transformers
+lightgbm
+matplotlib
